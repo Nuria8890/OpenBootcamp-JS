@@ -1,0 +1,24 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto de JS",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node hola_mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuria8890/OpenBootcamp-JS.git"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproject"
+  ],
+  "author": "Nuria Campo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuria8890/OpenBootcamp-JS/issues"
+  },
+  "homepage": "https://github.com/Nuria8890/OpenBootcamp-JS#readme"
+}
